@@ -1,0 +1,14 @@
+C:\Users\nemo-\Desktop\c#\projet\bin\Debug\net9.0\projet.exe
+C:\Users\nemo-\Desktop\c#\projet\bin\Debug\net9.0\projet.deps.json
+C:\Users\nemo-\Desktop\c#\projet\bin\Debug\net9.0\projet.runtimeconfig.json
+C:\Users\nemo-\Desktop\c#\projet\bin\Debug\net9.0\projet.dll
+C:\Users\nemo-\Desktop\c#\projet\bin\Debug\net9.0\projet.pdb
+C:\Users\nemo-\Desktop\c#\projet\obj\Debug\net9.0\projet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nemo-\Desktop\c#\projet\obj\Debug\net9.0\projet.AssemblyInfoInputs.cache
+C:\Users\nemo-\Desktop\c#\projet\obj\Debug\net9.0\projet.AssemblyInfo.cs
+C:\Users\nemo-\Desktop\c#\projet\obj\Debug\net9.0\projet.csproj.CoreCompileInputs.cache
+C:\Users\nemo-\Desktop\c#\projet\obj\Debug\net9.0\projet.dll
+C:\Users\nemo-\Desktop\c#\projet\obj\Debug\net9.0\refint\projet.dll
+C:\Users\nemo-\Desktop\c#\projet\obj\Debug\net9.0\projet.pdb
+C:\Users\nemo-\Desktop\c#\projet\obj\Debug\net9.0\projet.genruntimeconfig.cache
+C:\Users\nemo-\Desktop\c#\projet\obj\Debug\net9.0\ref\projet.dll
